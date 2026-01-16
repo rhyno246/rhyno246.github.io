@@ -1,0 +1,12 @@
+.skill-category {
+    margin-top: 20px;
+    margin-bottom: 15px;
+    font-weight: 600;
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 25px;
+    letter-spacing: 1px;
+    padding-bottom: 10px;
+    position: relative;
+    z-index: 1;
+}
